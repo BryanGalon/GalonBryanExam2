@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GalonBryanExam1</string>
+    <string name="card_activity">Card Activity</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="btn1">NEXT</string>
+    <string name="btn2">MAPS</string>
+    <string name="btn3">PREVIOUS</string>
+
+</resources>

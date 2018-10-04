@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="IName1" parent="AppTheme">
+        <item name="android:textColor">#b942f4</item>
+        <item name="android:text">Jang Wonyoung</item>
+    </style>
+
+    <style name="desc1" parent="AppTheme">
+        <item name="android:textColor">#4a3056</item>
+        <item name="android:text">Birth Name: Jang Wonyoung/Chang Yuanying (장원영)
+            \nBirthday: August 31st, 2004
+            \nZodiac Sign: Virgo
+            \nProbable Position: Vocalist, Visual, Center, Maknae
+            \nHeight: 168 cm (5’6”)
+            \nHeight: 47 kg (104 lbs)
+            \nBlood Type: O</item>
+    </style>
+
+    <style name="IName2" parent="AppTheme">
+        <item name="android:textColor">#b942f4</item>
+        <item name="android:text">Miyawaki Sakura</item>
+    </style>
+
+    <style name="desc2" parent="AppTheme">
+        <item name="android:textColor">#4a3056</item>
+        <item name="android:text">Birth Name: Miyawaki Sakura (宮脇 咲良) (みやわき　さくら) (미야와키 사쿠라)
+            \nProbable Position: Sub-Vocalist, Visual
+            \nBirthday: March 19th, 1998
+            \nZodiac: Pisces
+            \nHeight: 163 cm (5’4”)
+            \nWeight: 46 kg (101 lbs)
+            \nBlood Type: A</item>
+    </style>
+
+    <style name="IName3" parent="AppTheme">
+        <item name="android:textColor">#b942f4</item>
+        <item name="android:text">Jo Yuri</item>
+    </style>
+
+    <style name="desc3" parent="AppTheme">
+        <item name="android:textColor">#4a3056</item>
+        <item name="android:text">Birth Name: Jo Yuri (조유리)
+            \nProbable Position: Main Vocalist
+            \nBirthday: October 22nd, 2001
+            \nZodiac Sign: Libra
+            \nHeight: 160 cm (5’3”)
+            \nWeight: 45 kg (99 lbs)
+            \nBlood Type: AB</item>
+    </style>
+
+    <style name="image" parent="AppTheme">
+        <item name="android:layout_width">96dp</item>
+        <item name="android:layout_height">76dp</item>
+    </style>
+
+    <style name="IName4" parent="AppTheme">
+        <item name="android:textColor">#b942f4</item>
+        <item name="android:text">SCREEN 2</item>
+    </style>
+
+    <style name="IName5" parent="AppTheme">
+        <item name="android:textColor">#b942f4</item>
+        <item name="android:text">PREVIOUS</item>
+    </style>
+
+
+</resources>
